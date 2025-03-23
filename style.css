@@ -1,0 +1,16 @@
+#title {
+    background-color: black;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+ul {
+    font-weight: bold;
+    color: blue;
+    background-color: red;
+    font-size: 32px;
+}
+
