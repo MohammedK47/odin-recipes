@@ -1,16 +1,42 @@
-#title {
-    background-color: black;
-    color: red;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    font-size: 48px;
-    font-weight: 800;
+body {
+    background-color: #eee;
 }
 
-ul {
-    font-weight: bold;
-    color: blue;
-    background-color: red;
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: 800;
+    border: 5px solid black;
+    display: table;
+    text-align: center;
+    margin: 32px auto;
+    padding: 12px;
+}
+
+
+
+div.list {
+    text-align: center;
     font-size: 32px;
+    }
+
+ul.food-list {
+    display: inline-block;
+    text-align: center;
+    border: 5px solid black;
+    padding: 96px 24px;
+    
+}
+
+
+.odin-image-container,
+.image-caption-container,
+.click-me {
+    text-align: center;
+}
+
+.image-caption-container {
+    font-weight: bold;
+    font-style: italic;
 }
 
